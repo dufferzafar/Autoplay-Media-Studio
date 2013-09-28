@@ -1,26 +1,21 @@
-# AMS Projects #
+# AMS Projects
 
-----------
+Some of my projects created in [Autoplay Media Studio](http://autoplaymediastudio.com/).
 
-Some of my projects created in [Autoplay Media Studio](http://autoplaymediastudio.com/). Backend is all coded in Lua.
+The List Includes -
 
-The List Includes - 
+* **Amit's DFF** - A duplicate file finder. Works miserably.
 
-**Amit's DFF** - A duplicate file finder.
+* **Encry - Decry Alpha** - Basic File Encrypter.
 
-**Encry - Decry Alpha** - File Encrypter.
+* **Encry Decry** - An updated verison of the file encrypter. Has Many more features.
 
-**Encry Decry** - An updated verison of the file encrypter. Many more features.
+* **Ravi's TnT** - A SQLite Database application, which can store windows Tips and Tricks.
 
-**Ravi's TnT** - A SQLite Database application
+* **Shar** - A homegrown cipher algorithm, done in Pure Lua.
 
-**Shar** - A homegrown cipher algorithm
+* **Shadab's XP Control Center** - Has a sexy GUI and nothing more.
 
-**Heal & Clean**
+* **Heal & Clean**
 
-**Shadab's Cleaner**
-
-**Shadab's XP Control Center**
-
-
-
+* **Shadab's Cleaner**
